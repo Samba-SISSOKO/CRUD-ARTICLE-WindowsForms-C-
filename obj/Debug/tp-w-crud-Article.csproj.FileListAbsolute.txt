@@ -1,0 +1,10 @@
+C:\Users\pc\Desktop\Code-source\Solution2\tp-w-crud-Article\bin\Debug\tp-w-crud-Article.exe.config
+C:\Users\pc\Desktop\Code-source\Solution2\tp-w-crud-Article\bin\Debug\tp-w-crud-Article.exe
+C:\Users\pc\Desktop\Code-source\Solution2\tp-w-crud-Article\bin\Debug\tp-w-crud-Article.pdb
+C:\Users\pc\Desktop\Code-source\Solution2\tp-w-crud-Article\obj\Debug\tp-w-crud-Article.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\Code-source\Solution2\tp-w-crud-Article\obj\Debug\tp_w_crud_Article.Form1.resources
+C:\Users\pc\Desktop\Code-source\Solution2\tp-w-crud-Article\obj\Debug\tp_w_crud_Article.Properties.Resources.resources
+C:\Users\pc\Desktop\Code-source\Solution2\tp-w-crud-Article\obj\Debug\tp-w-crud-Article.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\Code-source\Solution2\tp-w-crud-Article\obj\Debug\tp-w-crud-Article.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Code-source\Solution2\tp-w-crud-Article\obj\Debug\tp-w-crud-Article.exe
+C:\Users\pc\Desktop\Code-source\Solution2\tp-w-crud-Article\obj\Debug\tp-w-crud-Article.pdb
